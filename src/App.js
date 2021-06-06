@@ -1,11 +1,15 @@
 
 import './App.css';
 import Header from './components/Layout/Header'
+import Meal from './components/Meals/Meals';
 
 function App() {
   return (
     <div >
-  <Header />
+      <Header />
+      <main>
+             <Meal/>
+      </main>
     </div>
   );
 }
