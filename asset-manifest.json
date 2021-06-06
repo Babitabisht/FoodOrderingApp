@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.77d4f9eb.chunk.js",
-    "main.js.map": "/static/js/main.77d4f9eb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.267290ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.267290ca.js.map",
-    "static/js/2.11f5068d.chunk.js": "/static/js/2.11f5068d.chunk.js",
-    "static/js/2.11f5068d.chunk.js.map": "/static/js/2.11f5068d.chunk.js.map",
-    "static/js/3.f16f9716.chunk.js": "/static/js/3.f16f9716.chunk.js",
-    "static/js/3.f16f9716.chunk.js.map": "/static/js/3.f16f9716.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.11f5068d.chunk.js.LICENSE.txt": "/static/js/2.11f5068d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/FoodOrderingApp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/FoodOrderingApp/static/js/main.77d4f9eb.chunk.js",
+    "main.js.map": "/FoodOrderingApp/static/js/main.77d4f9eb.chunk.js.map",
+    "runtime-main.js": "/FoodOrderingApp/static/js/runtime-main.8f348290.js",
+    "runtime-main.js.map": "/FoodOrderingApp/static/js/runtime-main.8f348290.js.map",
+    "static/js/2.11f5068d.chunk.js": "/FoodOrderingApp/static/js/2.11f5068d.chunk.js",
+    "static/js/2.11f5068d.chunk.js.map": "/FoodOrderingApp/static/js/2.11f5068d.chunk.js.map",
+    "static/js/3.f16f9716.chunk.js": "/FoodOrderingApp/static/js/3.f16f9716.chunk.js",
+    "static/js/3.f16f9716.chunk.js.map": "/FoodOrderingApp/static/js/3.f16f9716.chunk.js.map",
+    "index.html": "/FoodOrderingApp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/FoodOrderingApp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.11f5068d.chunk.js.LICENSE.txt": "/FoodOrderingApp/static/js/2.11f5068d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FoodOrderingApp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.267290ca.js",
+    "static/js/runtime-main.8f348290.js",
     "static/js/2.11f5068d.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.77d4f9eb.chunk.js"
