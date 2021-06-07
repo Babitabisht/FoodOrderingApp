@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/FoodOrderingApp/static/css/main.653bed69.chunk.css",
-    "main.js": "/FoodOrderingApp/static/js/main.97ab2de5.chunk.js",
-    "main.js.map": "/FoodOrderingApp/static/js/main.97ab2de5.chunk.js.map",
-    "runtime-main.js": "/FoodOrderingApp/static/js/runtime-main.43cf629f.js",
-    "runtime-main.js.map": "/FoodOrderingApp/static/js/runtime-main.43cf629f.js.map",
-    "static/js/2.92e60f40.chunk.js": "/FoodOrderingApp/static/js/2.92e60f40.chunk.js",
-    "static/js/2.92e60f40.chunk.js.map": "/FoodOrderingApp/static/js/2.92e60f40.chunk.js.map",
-    "static/js/3.b4286f8f.chunk.js": "/FoodOrderingApp/static/js/3.b4286f8f.chunk.js",
-    "static/js/3.b4286f8f.chunk.js.map": "/FoodOrderingApp/static/js/3.b4286f8f.chunk.js.map",
+    "main.css": "/FoodOrderingApp/static/css/main.21367c19.chunk.css",
+    "main.js": "/FoodOrderingApp/static/js/main.dafc1475.chunk.js",
+    "main.js.map": "/FoodOrderingApp/static/js/main.dafc1475.chunk.js.map",
+    "runtime-main.js": "/FoodOrderingApp/static/js/runtime-main.4515d665.js",
+    "runtime-main.js.map": "/FoodOrderingApp/static/js/runtime-main.4515d665.js.map",
+    "static/js/2.1a3ed9fe.chunk.js": "/FoodOrderingApp/static/js/2.1a3ed9fe.chunk.js",
+    "static/js/2.1a3ed9fe.chunk.js.map": "/FoodOrderingApp/static/js/2.1a3ed9fe.chunk.js.map",
+    "static/js/3.0988334d.chunk.js": "/FoodOrderingApp/static/js/3.0988334d.chunk.js",
+    "static/js/3.0988334d.chunk.js.map": "/FoodOrderingApp/static/js/3.0988334d.chunk.js.map",
     "index.html": "/FoodOrderingApp/index.html",
-    "static/css/main.653bed69.chunk.css.map": "/FoodOrderingApp/static/css/main.653bed69.chunk.css.map",
-    "static/js/2.92e60f40.chunk.js.LICENSE.txt": "/FoodOrderingApp/static/js/2.92e60f40.chunk.js.LICENSE.txt",
+    "static/css/main.21367c19.chunk.css.map": "/FoodOrderingApp/static/css/main.21367c19.chunk.css.map",
+    "static/js/2.1a3ed9fe.chunk.js.LICENSE.txt": "/FoodOrderingApp/static/js/2.1a3ed9fe.chunk.js.LICENSE.txt",
     "static/media/pizza.571624fd.jpg": "/FoodOrderingApp/static/media/pizza.571624fd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43cf629f.js",
-    "static/js/2.92e60f40.chunk.js",
-    "static/css/main.653bed69.chunk.css",
-    "static/js/main.97ab2de5.chunk.js"
+    "static/js/runtime-main.4515d665.js",
+    "static/js/2.1a3ed9fe.chunk.js",
+    "static/css/main.21367c19.chunk.css",
+    "static/js/main.dafc1475.chunk.js"
   ]
 }
