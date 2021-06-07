@@ -8,12 +8,12 @@ const Cart = (props) => {
     const cartCtx = useContext(cartContext);
     const totalAmount = `$${cartCtx.totalAmount}`;
     const showOrderButton = cartCtx.items.length > 0;
-    const cartItemRemoveHandler = () => {
-
+    const cartItemRemoveHandler = (item) => {
+        cartCtx.removeItem(item.id)
     }
 
-    const cartItemAddHandler = () => {
-
+    const cartItemAddHandler = (id) => {
+       
     }
 
     const cartItems = (
