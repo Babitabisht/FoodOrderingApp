@@ -4,7 +4,7 @@ import {useRef, useState} from 'react';
 
 const MealItemForm=(props)=>{
 
-    const [isFormValid, setIsFormValid] = useState(false);
+    
 
     const amountInputRef = useRef();
 
@@ -14,7 +14,7 @@ const MealItemForm=(props)=>{
       let enteredAmount=  amountInputRef.current.value;
       let enteredAmountNumber = +enteredAmount;
       if(enteredAmountNumber === 0 || enteredAmountNumber<0){
-        setIsFormValid(true);
+        return;
       }
       props.onAddAmount(enteredAmountNumber);
 
@@ -34,7 +34,7 @@ const MealItemForm=(props)=>{
 
             }} label="Amount" />
             <button> +Add </button>
-            {!isFormValid && <p>Please Enter valid amount </p>}
+          
         </form>
     );
 }
